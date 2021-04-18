@@ -82,7 +82,7 @@ def ntgen(obj, sN,sM,sL, save = None):
         nt.atom[j].bonds.append(i)
         if d <= 0.5:
           print "WARNING: Atoms #%d and #%d are too close" % (i,j)
-## Add protons
+## Adding protons
   nat = iat
   for iat in range(len(nt.atom)):
     if len(nt.atom[iat].bonds) == 2:
