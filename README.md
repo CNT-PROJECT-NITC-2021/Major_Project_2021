@@ -1,22 +1,10 @@
 # Major Project 2021
-EFFECT OF ENGINEERED NANOMATERIALS ON GROWTH AND PROTECTION OF PLANTS
-
-Contains the code and visualization results of CNTs
-
+Project name : ****EFFECT OF ENGINEERED NANOMATERIALS ON GROWTH AND PROTECTION OF PLANTS****
+This repository contains the code to generate Carbon Nanotubes via Pymol and visualization of functionalization under VMD.
 
 
 
 
 
-
-Group Members
-
-Raghuraman S B170965BT
-
-Irfana K B171004BT
-
-M. Naganjaneyulu B151074BT
-
-Dheepa Maharaji S B171025BT
 
 Guide: Dr Baiju G Nair
