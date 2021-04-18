@@ -1,3 +1,5 @@
+##Code for Solvent Box. 
+
 tolerance 2.0
 output test.pdb
 filetype pdb
