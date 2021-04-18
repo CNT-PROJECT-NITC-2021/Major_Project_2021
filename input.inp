@@ -1,0 +1,15 @@
+tolerance 2.0
+output test.pdb
+filetype pdb
+structure water.pdb
+  number 1000
+  inside cube -20. -20. -20. 100.
+end structure
+structure hno3.pdb
+  number 300
+  inside cube -20. -20. -20. 100.
+end structure
+structure h2so4.pdb
+  number 982
+  inside cube -20. -20. -20. 100.
+end structure
